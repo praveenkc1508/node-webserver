@@ -1,0 +1,22 @@
+footer {
+    background: red;
+}
+h1 {
+    color:red;
+    font-size:16px;
+}
+img {
+    width:250px;
+
+}
+body{
+    color:red;
+    font-family:arial;
+    max-width: 650;
+    margin :0 auto;
+    padding: 0 16px;
+}
+header {
+    margin-top : 16px;
+    margin-bottom:48px;
+}
